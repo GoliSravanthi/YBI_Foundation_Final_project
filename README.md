@@ -13,5 +13,5 @@ The project involves the following steps like
 8.splitting into testing and training data
 9.model selection
 10.model training
-11.mode predictions
+11.model predictions
 12.model evaluation
